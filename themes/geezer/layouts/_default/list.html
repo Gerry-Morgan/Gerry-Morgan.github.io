@@ -1,0 +1,35 @@
+{{ define "main" }}
+<section class="page-list">
+  <div class="container">
+    <header class="page-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+    <div class="page-content prose">
+      {{ .Content }}
+    </div>
+    {{ $pages := .Pages }}
+    {{ if $pages }}
+    <ul class="post-list">
+      {{ range $pages.ByDate.Reverse }}
+      {{ if not .Draft }}
+      <li>
+        <article>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+          {{ with .Params.genres }}
+          <div class="genres">
+            {{ range . }}<span class="genre">{{ . }}</span>{{ end }}
+          </div>
+          {{ end }}
+        </article>
+      </li>
+      {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    {{ template "_internal/pagination.html" . }}
+  </div>
+</section>
+{{ end }}

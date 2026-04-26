@@ -1,0 +1,23 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <p class="footer-label">{{ .Site.Params.label }}</p>
+      <p class="footer-tagline">{{ .Site.Params.tagline }}</p>
+      <p class="footer-copyright">
+        &copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.
+      </p>
+    </div>
+    {{ with .Site.Menus.main }}
+    <nav class="footer-nav" aria-label="Footer navigation">
+      <ul>
+        {{ range . }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+    {{ end }}
+    <div class="footer-rss">
+      <a href="{{ "index.xml" | absURL }}" title="RSS Feed">RSS Feed</a>
+    </div>
+  </div>
+</footer>

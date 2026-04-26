@@ -1,0 +1,9 @@
+name = "Geezer"
+license = "MIT"
+licenselink = "https://github.com/..."
+description = "A clean, minimal Hugo theme for Gerry Morgan / Geezer Records"
+tags = ["music", "blog", "portfolio", "minimal"]
+min_version = "0.120.0"
+
+[author]
+  name = "Gerry Morgan"

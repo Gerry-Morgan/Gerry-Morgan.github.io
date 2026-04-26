@@ -1,0 +1,83 @@
+# Hugo Configuration for Gerry Morgan's Website
+# Geezer Records
+
+baseURL = "https://gerrymorgan.ca/"
+languageCode = "en-ca"
+title = "Gerry Morgan | Songwriter · Author · Educator · Software Designer"
+theme = "geezer"
+copyright = "© {year} Gerry Morgan / Geezer Records. All rights reserved."
+
+[params]
+  author = "Gerry Morgan"
+  description = "Official website of Gerry Morgan — Canadian songwriter, author, educator, and software designer. Home of Geezer Records."
+  label = "Geezer Records"
+  tagline = "Songs. Stories. Software. Learning."
+  ogImage = "/images/og-default.jpg"
+  favicon = "/images/favicon.ico"
+  musicCount = "900+"
+
+[params.contact]
+  email = "hello@gerrymorgan.ca"
+
+[params.social]
+  # Uncomment and fill in as needed
+  # twitter = ""
+  # youtube = ""
+  # bandcamp = ""
+  # github = ""
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Music"
+    url = "/music/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Pantokrator"
+    url = "/pantokrator/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.highlight]
+    style = "monokai"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  genre = "genres"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[permalinks]
+  blog = "/blog/:year/:month/:slug/"
+  music = "/music/:slug/"
