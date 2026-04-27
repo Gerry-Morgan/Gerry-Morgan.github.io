@@ -1,7 +1,7 @@
 # Hugo Configuration for Gerry Morgan's Website
 # Geezer Records
 
-baseURL = "https://gerrymorgan.ca/"
+baseURL = "https://Gerry-Morgan.github.io/"
 languageCode = "en-ca"
 title = "Gerry Morgan | Songwriter · Author · Educator · Software Designer"
 theme = "geezer"
