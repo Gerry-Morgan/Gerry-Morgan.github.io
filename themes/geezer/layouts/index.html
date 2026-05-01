@@ -49,13 +49,13 @@
   </div>
 </section>
 
-{{  := where .Site.RegularPages "Section" "blog" }}
-{{ if  }}
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
+{{ if $posts }}
 <section class="recent-posts">
   <div class="container">
     <h2>Recent Posts</h2>
     <ul class="post-list">
-      {{ range first 5  }}
+      {{ range first 5 $posts }}
       <li>
         <article>
           <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
