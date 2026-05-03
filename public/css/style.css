@@ -350,3 +350,144 @@ h3 { font-size: 1.4rem; }
     height: 200px;
   }
 }
+
+/* --- Podcast Player --- */
+.podcast-player {
+  margin: 2rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #111827;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.podcast-player iframe {
+  display: block;
+  width: 100%;
+}
+
+.podcast-player-mini {
+  margin: 1rem 0 0.5rem;
+}
+
+.podcast-actions {
+  margin: 1.5rem 0 2rem;
+  text-align: center;
+}
+
+.spotify-button {
+  display: inline-block;
+  background: #1DB954;
+  color: #fff;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  padding: 0.8rem 2rem;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: background 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.spotify-button:hover {
+  background: #1ed760;
+  color: #fff;
+  opacity: 1;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(29, 185, 84, 0.35);
+}
+
+.podcast-duration {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin-left: 1rem;
+}
+
+.podcast-episode .page-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.podcast-episode .page-header h1 {
+  width: 100%;
+}
+
+/* Post list podcast tweaks */
+.post-list .podcast-player-mini {
+  max-width: 100%;
+}
+
+.post-list article .podcast-duration {
+  margin-left: 0;
+  margin-top: 0.25rem;
+}
+
+@media (max-width: 768px) {
+  .spotify-button {
+    padding: 0.7rem 1.5rem;
+    font-size: 0.85rem;
+  }
+  .podcast-player iframe {
+    height: 152px;
+  }
+}
+
+/* --- Page List & Post List enhancements --- */
+.page-list {
+  padding: 3rem 0;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0;
+}
+
+.post-list li {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.post-list li:last-child {
+  border-bottom: none;
+}
+
+.post-list time {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.post-list h3 {
+  margin-bottom: 0.25rem;
+}
+
+.post-list p {
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+}
+
+.see-all {
+  font-family: var(--font-ui);
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+.recent-posts {
+  padding: 3rem 0;
+}
+
+.prose h1, .prose h2, .prose h3 {
+  margin-top: 1.5rem;
+}
+
+.prose p {
+  margin-bottom: 1rem;
+}

@@ -17,6 +17,27 @@
           <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
           <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}
+          {{ if eq .Section "podcast" }}
+          {{ $page := . }}
+          {{ with .Params.spotify_link }}
+          {{ $embed_url := replace . "/episodes/" "/embed/episodes/" }}
+          <div class="podcast-player podcast-player-mini">
+            <iframe
+              src="{{ $embed_url }}"
+              width="100%"
+              height="152"
+              frameborder="0"
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              loading="lazy"
+              title="Spotify Player — {{ $page.Title }}"
+              style="border-radius: 12px;"
+            ></iframe>
+          </div>
+          {{ end }}
+          {{ with .Params.duration }}
+          <span class="podcast-duration">⏱ {{ . }}</span>
+          {{ end }}
+          {{ end }}
           {{ with .Params.genres }}
           <div class="genres">
             {{ range . }}<span class="genre">{{ . }}</span>{{ end }}
