@@ -20,7 +20,8 @@
           {{ if eq .Section "podcast" }}
           {{ $page := . }}
           {{ with .Params.spotify_link }}
-          {{ $embed_url := replace . "/episodes/" "/embed/episodes/" }}
+          {{ $embed_url := replace . "podcasters.spotify.com/pod/show" "anchor.fm" }}
+          {{ $embed_url = replace $embed_url "/episodes/" "/embed/episodes/" }}
           <div class="podcast-player podcast-player-mini">
             <iframe
               src="{{ $embed_url }}"
