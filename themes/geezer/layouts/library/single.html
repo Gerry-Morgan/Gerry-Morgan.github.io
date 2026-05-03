@@ -1,0 +1,33 @@
+{{ define "main" }}
+<article class="page-single book-page">
+  <div class="container">
+    <header class="page-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}<p class="book-subtitle">{{ . }}</p>{{ end }}
+    </header>
+
+    <div class="book-details">
+      {{ with .Params.category }}<span class="book-category">{{ . }}</span>{{ end }}
+    </div>
+
+    <div class="page-content prose">
+      {{ .Content }}
+    </div>
+
+    <div class="book-actions">
+      {{ with .Params.download_link }}
+      <a href="{{ . }}" class="btn btn-download" download>
+        📥 Download PDF
+      </a>
+      {{ end }}
+      <a href="https://www.buymeacoffee.com/GeezerGerry" class="btn btn-donate" target="_blank" rel="noopener">
+        ☕ Donate via Buy Me a Coffee
+      </a>
+    </div>
+
+    <div class="book-back">
+      <a href="/library/">← Back to The Library</a>
+    </div>
+  </div>
+</article>
+{{ end }}

@@ -1,17 +1,354 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gerry Morgan on Gerry Morgan | Songwriter · Author · Educator · Software Designer</title><link>https://gerry-morgan.github.io/</link><description>Recent content in Gerry Morgan on Gerry Morgan | Songwriter · Author · Educator · Software Designer</description><generator>Hugo -- gohugo.io</generator><language>en-ca</language><copyright>© 2026 Gerry Morgan / Geezer Records. All rights reserved.</copyright><lastBuildDate>Sun, 03 May 2026 01:22:00 +0000</lastBuildDate><atom:link href="https://gerry-morgan.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Canada's Third Way</title><link>https://gerry-morgan.github.io/podcast/2026-05-03-canadas-third-way/</link><pubDate>Sun, 03 May 2026 01:22:00 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-05-03-canadas-third-way/</guid><description>When creating an Empire or an Island is not possible&amp;hellip;what do we do?</description></item><item><title>Mosaic In Motion</title><link>https://gerry-morgan.github.io/podcast/2026-05-01-mosaic-in-motion/</link><pubDate>Fri, 01 May 2026 15:35:23 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-05-01-mosaic-in-motion/</guid><description>Immigration to Canada- an exploration of issues</description></item><item><title>How Canada Leads by Listening</title><link>https://gerry-morgan.github.io/podcast/2026-04-29-how-canada-leads-by-listening/</link><pubDate>Wed, 29 Apr 2026 03:19:00 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-04-29-how-canada-leads-by-listening/</guid><description>Times&amp;hellip;they are changing.</description></item><item><title>Canadian Unity and the Movements Against Unity</title><link>https://gerry-morgan.github.io/podcast/2026-04-27-canadian-unity-and-the-movements-against-unity/</link><pubDate>Mon, 27 Apr 2026 21:56:53 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-04-27-canadian-unity-and-the-movements-against-unity/</guid><description>Ideas about Canadian Unity and the forces against it.</description></item><item><title>AI, Robotics and Democracy</title><link>https://gerry-morgan.github.io/podcast/2026-04-27-ai-robotics-and-democracy/</link><pubDate>Mon, 27 Apr 2026 15:01:22 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-04-27-ai-robotics-and-democracy/</guid><description>This podcast delves into a book that I wrote a year ago, looking what is to come and seeing if we can&amp;rsquo;t forge a Future positive out of the vast changes the coming paradigm shift</description></item><item><title>Pantokrator</title><link>https://gerry-morgan.github.io/podcast/2026-04-27-pantokrator/</link><pubDate>Mon, 27 Apr 2026 14:57:31 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-04-27-pantokrator/</guid><description>This podcast explores the ideas behind the rock Opera Pantokrator, Pantorator is on Spotify music. The opera itself is slightly over 2 hrs&amp;hellip;.but this will give you a taste of whether you want a deep dive or not.</description></item><item><title>Welcome to the Daily Innovation Report</title><link>https://gerry-morgan.github.io/blog/2026/04/welcome-to-the-daily-innovation-report/</link><pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate><guid>https://gerry-morgan.github.io/blog/2026/04/welcome-to-the-daily-innovation-report/</guid><description>This is the Daily Innovation Report. The idea is simple: show up every day, notice something, write about it.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerry Morgan on Gerry Morgan | Songwriter · Author · Educator · Software Designer</title>
+    <link>https://gerry-morgan.github.io/</link>
+    <description>Recent content in Gerry Morgan on Gerry Morgan | Songwriter · Author · Educator · Software Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <copyright>© 2026 Gerry Morgan / Geezer Records. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 03 May 2026 01:22:00 +0000</lastBuildDate><atom:link href="https://gerry-morgan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canada&#39;s Third Way</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-05-03-canadas-third-way/</link>
+      <pubDate>Sun, 03 May 2026 01:22:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-05-03-canadas-third-way/</guid>
+      <description>When creating an Empire or an Island is not possible&amp;hellip;what do we do?</description>
+    </item>
+    
+    <item>
+      <title>Mosaic In Motion</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-05-01-mosaic-in-motion/</link>
+      <pubDate>Fri, 01 May 2026 15:35:23 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-05-01-mosaic-in-motion/</guid>
+      <description>Immigration to Canada- an exploration of issues</description>
+    </item>
+    
+    <item>
+      <title>How Canada Leads by Listening</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-04-29-how-canada-leads-by-listening/</link>
+      <pubDate>Wed, 29 Apr 2026 03:19:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-04-29-how-canada-leads-by-listening/</guid>
+      <description>Times&amp;hellip;they are changing.</description>
+    </item>
+    
+    <item>
+      <title>Canadian Unity and the Movements Against Unity</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-04-27-canadian-unity-and-the-movements-against-unity/</link>
+      <pubDate>Mon, 27 Apr 2026 21:56:53 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-04-27-canadian-unity-and-the-movements-against-unity/</guid>
+      <description>Ideas about Canadian Unity and the forces against it.</description>
+    </item>
+    
+    <item>
+      <title>AI, Robotics and Democracy</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-04-27-ai-robotics-and-democracy/</link>
+      <pubDate>Mon, 27 Apr 2026 15:01:22 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-04-27-ai-robotics-and-democracy/</guid>
+      <description>This podcast delves into a book that I wrote a year ago, looking what is to come and seeing if we can&amp;rsquo;t forge a Future positive out of the vast changes the coming paradigm shift</description>
+    </item>
+    
+    <item>
+      <title>Pantokrator</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-04-27-pantokrator/</link>
+      <pubDate>Mon, 27 Apr 2026 14:57:31 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-04-27-pantokrator/</guid>
+      <description>This podcast explores the ideas behind the rock Opera Pantokrator, Pantorator is on Spotify music. The opera itself is slightly over 2 hrs&amp;hellip;.but this will give you a taste of whether you want a deep dive or not.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Daily Innovation Report</title>
+      <link>https://gerry-morgan.github.io/blog/2026/04/welcome-to-the-daily-innovation-report/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/blog/2026/04/welcome-to-the-daily-innovation-report/</guid>
+      <description>This is the Daily Innovation Report. The idea is simple: show up every day, notice something, write about it.
 Innovation isn&amp;rsquo;t always a breakthrough. Most of the time it&amp;rsquo;s a small observation — a better way to phrase a lyric, a cleaner approach to a software problem, a teaching method that actually lands. The daily practice is what matters.
-Some days the report will be about music. Some days about software.</description></item><item><title>On Writing 900 Songs</title><link>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</link><pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate><guid>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</guid><description>People ask how you write 900 songs. The answer is boring: you write one song, and then you do it again tomorrow.
+Some days the report will be about music. Some days about software.</description>
+    </item>
+    
+    <item>
+      <title>On Writing 900 Songs</title>
+      <link>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</guid>
+      <description>People ask how you write 900 songs. The answer is boring: you write one song, and then you do it again tomorrow.
 There&amp;rsquo;s no trick to prolific output. There&amp;rsquo;s just the commitment to sit down and do the work even when you don&amp;rsquo;t feel inspired. Especially when you don&amp;rsquo;t feel inspired. Inspiration is a visitor. Discipline lives in the house.
-Not every song is great. Some are mediocre. A few are terrible.</description></item><item><title>Ideas About Housing in Canada</title><link>https://gerry-morgan.github.io/podcast/2026-04-21-ideas-about-housing-in-canada/</link><pubDate>Tue, 21 Apr 2026 01:20:19 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-04-21-ideas-about-housing-in-canada/</guid><description>It is time for some fresh thinking about housing&amp;hellip;</description></item><item><title>Rethinking the Future</title><link>https://gerry-morgan.github.io/podcast/2026-04-21-rethinking-the-future/</link><pubDate>Tue, 21 Apr 2026 01:19:00 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-04-21-rethinking-the-future/</guid><description>What kind of a future will we make for ourselves and our Children?</description></item><item><title>The Love Investor</title><link>https://gerry-morgan.github.io/podcast/2026-04-21-the-love-investor/</link><pubDate>Tue, 21 Apr 2026 01:17:52 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-04-21-the-love-investor/</guid><description>Are you a Love Investor?</description></item><item><title>AI and Music</title><link>https://gerry-morgan.github.io/podcast/2026-04-21-ai-and-music/</link><pubDate>Tue, 21 Apr 2026 01:11:43 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-04-21-ai-and-music/</guid><description>There is so much opinionated hype about AI and music but almost all musicians use technology. Listen and enjoy a slightly different take on this topic.</description></item><item><title>What Seniors Want</title><link>https://gerry-morgan.github.io/podcast/2026-04-21-what-seniors-want/</link><pubDate>Tue, 21 Apr 2026 01:11:01 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-04-21-what-seniors-want/</guid><description>Guess what? You are a future senior (if you are lucky enough to make it)</description></item><item><title>The PCC</title><link>https://gerry-morgan.github.io/podcast/2026-04-21-the-pcc/</link><pubDate>Tue, 21 Apr 2026 01:02:54 +0000</pubDate><guid>https://gerry-morgan.github.io/podcast/2026-04-21-the-pcc/</guid><description>Cleaning your place before the cleaner come? What&amp;rsquo;s that about?</description></item><item><title>About Gerry Morgan</title><link>https://gerry-morgan.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gerry-morgan.github.io/about/</guid><description>The Short Version Gerry Morgan is a Canadian songwriter, author, educator, and software designer. He has written more than 900 songs, authored works spanning multiple genres, designed software used in educational contexts, and taught across a variety of settings. He runs Geezer Records, an independent label built to house and release his music on his own terms.
-Songwriter Music has been the throughline. With a catalogue of over 900 original compositions — spanning folk, rock, blues, country, gospel, and experimental territory — Gerry&amp;rsquo;s songwriting is prolific by any measure.</description></item><item><title>Contact</title><link>https://gerry-morgan.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gerry-morgan.github.io/contact/</guid><description>Get in Touch Whether it&amp;rsquo;s about music, collaboration, education, software, or just to say hello — I&amp;rsquo;d like to hear from you.
+Not every song is great. Some are mediocre. A few are terrible.</description>
+    </item>
+    
+    <item>
+      <title>Ideas About Housing in Canada</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-04-21-ideas-about-housing-in-canada/</link>
+      <pubDate>Tue, 21 Apr 2026 01:20:19 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-04-21-ideas-about-housing-in-canada/</guid>
+      <description>It is time for some fresh thinking about housing&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Rethinking the Future</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-04-21-rethinking-the-future/</link>
+      <pubDate>Tue, 21 Apr 2026 01:19:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-04-21-rethinking-the-future/</guid>
+      <description>What kind of a future will we make for ourselves and our Children?</description>
+    </item>
+    
+    <item>
+      <title>The Love Investor</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-04-21-the-love-investor/</link>
+      <pubDate>Tue, 21 Apr 2026 01:17:52 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-04-21-the-love-investor/</guid>
+      <description>Are you a Love Investor?</description>
+    </item>
+    
+    <item>
+      <title>AI and Music</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-04-21-ai-and-music/</link>
+      <pubDate>Tue, 21 Apr 2026 01:11:43 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-04-21-ai-and-music/</guid>
+      <description>There is so much opinionated hype about AI and music but almost all musicians use technology. Listen and enjoy a slightly different take on this topic.</description>
+    </item>
+    
+    <item>
+      <title>What Seniors Want</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-04-21-what-seniors-want/</link>
+      <pubDate>Tue, 21 Apr 2026 01:11:01 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-04-21-what-seniors-want/</guid>
+      <description>Guess what? You are a future senior (if you are lucky enough to make it)</description>
+    </item>
+    
+    <item>
+      <title>The PCC</title>
+      <link>https://gerry-morgan.github.io/podcast/2026-04-21-the-pcc/</link>
+      <pubDate>Tue, 21 Apr 2026 01:02:54 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/podcast/2026-04-21-the-pcc/</guid>
+      <description>Cleaning your place before the cleaner come? What&amp;rsquo;s that about?</description>
+    </item>
+    
+    <item>
+      <title>About Gerry Morgan</title>
+      <link>https://gerry-morgan.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/about/</guid>
+      <description>The Short Version Gerry Morgan is a Canadian songwriter, author, educator, and software designer. He has written more than 900 songs, authored works spanning multiple genres, designed software used in educational contexts, and taught across a variety of settings. He runs Geezer Records, an independent label built to house and release his music on his own terms.
+Songwriter Music has been the throughline. With a catalogue of over 900 original compositions — spanning folk, rock, blues, country, gospel, and experimental territory — Gerry&amp;rsquo;s songwriting is prolific by any measure.</description>
+    </item>
+    
+    <item>
+      <title>AI&#39;s Role in Music Creation</title>
+      <link>https://gerry-morgan.github.io/library/ai-role-in-music-creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/ai-role-in-music-creation/</guid>
+      <description>AI&amp;rsquo;s Role in Music Creation examines the rapidly evolving relationship between artificial intelligence and the art of making music. Gerry Morgan brings a songwriter&amp;rsquo;s perspective to the conversation, asking the questions that matter: Can AI truly create? What does this mean for human musicians? And how can we use these tools without losing our soul?
+Written by someone with 900+ songs to his name, this book carries the authority of experience and the curiosity of a lifelong learner.</description>
+    </item>
+    
+    <item>
+      <title>Canadian Performance Project</title>
+      <link>https://gerry-morgan.github.io/library/canadian-performance-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/canadian-performance-project/</guid>
+      <description>Canadian Performance Project outlines a bold vision for celebrating and supporting the performing arts across Canada. Drawing on decades of experience as an educator, songwriter, and cultural advocate, Gerry Morgan presents a framework for nurturing homegrown talent.
+The book explores how performance — music, theatre, spoken word, and beyond — can strengthen community bonds and express the richness of Canadian identity.
+A call to action for artists, educators, and policymakers who believe in the power of the stage.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gerry-morgan.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/contact/</guid>
+      <description>Get in Touch Whether it&amp;rsquo;s about music, collaboration, education, software, or just to say hello — I&amp;rsquo;d like to hear from you.
 Email The most reliable way to reach me:
 hello@gerrymorgan.ca
 (Please allow a reasonable response time. I read everything.)
 Geezer Records — Business Inquiries For licensing, distribution, or label-related questions:
 label@gerrymorgan.ca
 Social Links to social profiles will be added here as they are set up.
-Mailing List A mailing list for updates on new music, blog posts, and Pantokrator news is coming soon.</description></item><item><title>Join the Troupe</title><link>https://gerry-morgan.github.io/casting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gerry-morgan.github.io/casting/</guid><description>🎭 Join the Troupe We are currently building a core troupe of professional singers and dancers to bring the Canadian Sky legacy and the Pantokrator rock opera to stages across Canada.
+Mailing List A mailing list for updates on new music, blog posts, and Pantokrator news is coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Creating Minds: Philosophical Reflections on Homo Faber</title>
+      <link>https://gerry-morgan.github.io/library/creating-minds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/creating-minds/</guid>
+      <description>Creating Minds is a deep dive into the nature of human creativity. Drawing on the concept of Homo Faber — &amp;ldquo;Man the Maker&amp;rdquo; — Gerry Morgan explores why we create, how our tools shape our thinking, and what it means to live a life devoted to making things.
+The book bridges philosophy, education, and personal experience, offering a rich meditation on the creative impulse that defines our species.
+For thinkers, makers, and anyone who has ever felt the pull to build something from nothing.</description>
+    </item>
+    
+    <item>
+      <title>Cultural Tapestry: Identity and Its Role in Canada&#39;s National Cohesion</title>
+      <link>https://gerry-morgan.github.io/library/cultural-tapestry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/cultural-tapestry/</guid>
+      <description>Cultural Tapestry is a thoughtful, research-grounded exploration of Canadian identity. Gerry Morgan investigates how language, heritage, art, and shared values weave together to create a sense of national belonging — even in a country defined by its diversity.
+The book challenges simplistic narratives about unity and difference, instead offering a nuanced portrait of a nation always in the process of becoming.
+For anyone who has ever asked: What does it mean to be Canadian?</description>
+    </item>
+    
+    <item>
+      <title>Gerry&#39;s Song Book</title>
+      <link>https://gerry-morgan.github.io/library/gerrys-song-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/gerrys-song-book/</guid>
+      <description>With more than 900 original songs to his name, Gerry Morgan is one of Canada&amp;rsquo;s most prolific songwriters. Gerry&amp;rsquo;s Song Book compiles lyrics and commentary from across this remarkable body of work.
+From folk ballads and children&amp;rsquo;s tunes to rock opera and protest songs, the collection reveals the depth and range of a creative life devoted to music.
+Essential reading for anyone interested in the craft of songwriting — and the stories behind the songs.</description>
+    </item>
+    
+    <item>
+      <title>Go With Love</title>
+      <link>https://gerry-morgan.github.io/library/go-with-love/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/go-with-love/</guid>
+      <description>Go With Love is a tender, reflective work drawn from the emotional landscape of a life richly lived. Gerry Morgan writes about love in all its forms — romantic, familial, platonic, and self-directed.
+The book weaves together prose and poetry in a meditation on what it means to let go, move forward, and carry love as both compass and companion.
+For readers who find meaning in the spaces between goodbye and hello.</description>
+    </item>
+    
+    <item>
+      <title>Grandpa Gerry</title>
+      <link>https://gerry-morgan.github.io/library/grandpa-gerry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/grandpa-gerry/</guid>
+      <description>Grandpa Gerry is a heartfelt book written for Gerry Morgan&amp;rsquo;s grandchildren. It captures the stories, lessons, and laughter gathered over a lifetime of teaching, songwriting, and exploring the world.
+Part memoir, part love letter, this book is about the things that really matter — family, creativity, and the ordinary moments that become extraordinary when you write them down.
+A gift for the next generation — and for anyone who believes grandparents are the original storytellers.</description>
+    </item>
+    
+    <item>
+      <title>Housing Crisis: Ideas for Housing Canadians</title>
+      <link>https://gerry-morgan.github.io/library/housing-crisis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/housing-crisis/</guid>
+      <description>Housing Crisis confronts one of Canada&amp;rsquo;s most pressing challenges head-on. Gerry Morgan examines the root causes of the affordability crisis and proposes a range of solutions — from policy reforms and cooperative housing models to innovative construction techniques and community land trusts.
+Written with clarity and urgency, this book is a citizen&amp;rsquo;s guide to understanding the crisis and demanding better.
+Essential reading for anyone who believes that housing is a right, not a privilege.</description>
+    </item>
+    
+    <item>
+      <title>Join the Troupe</title>
+      <link>https://gerry-morgan.github.io/casting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/casting/</guid>
+      <description>🎭 Join the Troupe We are currently building a core troupe of professional singers and dancers to bring the Canadian Sky legacy and the Pantokrator rock opera to stages across Canada.
 🌟 The Opportunity This is a paid contract engagement based in Calgary, Alberta. We are seeking high-energy &amp;ldquo;Triple Threat&amp;rdquo; performers who want to be part of an original, narrative-driven Canadian work.
-📽️ See the Vision Watch our current high-energy promo video to get a feel for the energy and standard of the show:</description></item><item><title>Press Kit &amp; Sonic Blueprint</title><link>https://gerry-morgan.github.io/press-kit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gerry-morgan.github.io/press-kit/</guid><description>🌌 The Canadian Sky Sonic Blueprint Artist: Gerry Morgan | Label: Geezer Records | Catalogue: 900+ Songs
+📽️ See the Vision Watch our current high-energy promo video to get a feel for the energy and standard of the show:</description>
+    </item>
+    
+    <item>
+      <title>Life in the Refrigerator</title>
+      <link>https://gerry-morgan.github.io/library/life-in-the-refrigerator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/life-in-the-refrigerator/</guid>
+      <description>Life in the Refrigerator is Gerry Morgan at his most inventive — blending humour, observation, and a dash of the absurd to explore the small dramas of everyday existence.
+With a title that invites curiosity, this book delivers on its promise: a fresh perspective on the mundane, the magical, and everything in between.
+A quirky, thought-provoking read for those who like their literature with a side of surprise.</description>
+    </item>
+    
+    <item>
+      <title>Mindful Love: Nurturing Mental Health in Relationships</title>
+      <link>https://gerry-morgan.github.io/library/mindful-love/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/mindful-love/</guid>
+      <description>Mindful Love explores the intersection of mental health and relationships. Gerry Morgan writes with warmth and candour about the challenges of loving well — and being loved — when life gets complicated.
+The book offers practical wisdom for nurturing emotional well-being in partnerships, families, and friendships, drawing on both research and lived experience.
+A gentle, grounding read for anyone who wants to love more mindfully.</description>
+    </item>
+    
+    <item>
+      <title>Mosaic in Motion</title>
+      <link>https://gerry-morgan.github.io/library/mosaic-in-motion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/mosaic-in-motion/</guid>
+      <description>Mosaic in Motion captures the energy and beauty of Canada&amp;rsquo;s cultural diversity. Gerry Morgan examines how the interplay of traditions, languages, and stories creates a living, evolving national identity.
+More than a static portrait, this book looks at the forces — immigration, art, education, and community — that keep the Canadian mosaic moving, growing, and surprising.
+A timely and hopeful exploration of what it means to share a country with the world.</description>
+    </item>
+    
+    <item>
+      <title>Press Kit &amp; Sonic Blueprint</title>
+      <link>https://gerry-morgan.github.io/press-kit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/press-kit/</guid>
+      <description>🌌 The Canadian Sky Sonic Blueprint Artist: Gerry Morgan | Label: Geezer Records | Catalogue: 900+ Songs
 📍 Sonic Positioning A prolific Canadian songwriter whose work blends the narrative weight of classic troubadours with modern &amp;ldquo;vibe-coded&amp;rdquo; production. The sound is anchored in literary folk, but expands into global fusion and rock opera, always prioritizing lyrical depth and social consciousness.
-🎭 The Masterwork: Pantokrator A 30-song rock opera that serves as the centerpiece of the catalogue.</description></item></channel></rss>
+🎭 The Masterwork: Pantokrator A 30-song rock opera that serves as the centerpiece of the catalogue.</description>
+    </item>
+    
+    <item>
+      <title>Re-Imagining Canadian Healthcare</title>
+      <link>https://gerry-morgan.github.io/library/reimagining-canadian-healthcare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/reimagining-canadian-healthcare/</guid>
+      <description>Re-Imagining Canadian Healthcare tackles the systemic issues facing Canada&amp;rsquo;s public health system. Gerry Morgan draws on research, personal experience, and a deep belief in universal care to propose strategies for effective restructuring.
+From wait times and staffing crises to digital health and preventive medicine, the book offers a clear-eyed assessment of where the system is failing — and a hopeful vision for how it can be rebuilt.
+A citizen&amp;rsquo;s prescription for a healthier Canada.</description>
+    </item>
+    
+    <item>
+      <title>Shaping the Future: A Blueprint for Our Country</title>
+      <link>https://gerry-morgan.github.io/library/shaping-the-future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/shaping-the-future/</guid>
+      <description>Shaping the Future is Gerry Morgan&amp;rsquo;s most ambitious non-fiction work — a sweeping proposal for how Canada can navigate the challenges of the 21st century. Drawing on his background in education and technology, Morgan offers concrete ideas for reforming governance, revitalizing the economy, and building a more equitable society.
+The book is unapologetically forward-looking, combining big-picture thinking with practical recommendations.
+A blueprint for citizens, policymakers, and anyone who believes Canada&amp;rsquo;s best days are still ahead.</description>
+    </item>
+    
+    <item>
+      <title>The Sustainable Lifestyle: A Back to the Land Guide</title>
+      <link>https://gerry-morgan.github.io/library/the-sustainable-lifestyle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/the-sustainable-lifestyle/</guid>
+      <description>The Sustainable Lifestyle is a practical and philosophical guide for anyone drawn to the idea of living closer to the earth. Gerry Morgan draws on real-world experience to cover everything from small-scale farming and energy independence to the mindset shift required to leave the grid behind.
+Part instruction manual, part manifesto, this book is for dreamers who are ready to get their hands dirty.
+Whether you&amp;rsquo;re planning a homestead or just rethinking your relationship with the land, this guide lights the way.</description>
+    </item>
+    
+    <item>
+      <title>We the Seniors: What We Need</title>
+      <link>https://gerry-morgan.github.io/library/we-the-seniors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/library/we-the-seniors/</guid>
+      <description>We the Seniors is a rallying cry for dignity, respect, and better support for older Canadians. Gerry Morgan — a proud senior himself — writes from the inside, blending personal stories with policy analysis.
+The book covers healthcare, housing, isolation, financial security, and the untapped wisdom that seniors bring to every community.
+Part manifesto, part memoir — a book that demands we listen to the generation that built this country.</description>
+    </item>
+    
+  </channel>
+</rss>

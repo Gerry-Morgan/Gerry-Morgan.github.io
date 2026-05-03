@@ -1,5 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Innovation on Gerry Morgan | Songwriter · Author · Educator · Software Designer</title><link>https://gerry-morgan.github.io/categories/innovation/</link><description>Recent content in Innovation on Gerry Morgan | Songwriter · Author · Educator · Software Designer</description><generator>Hugo -- gohugo.io</generator><language>en-ca</language><copyright>© 2026 Gerry Morgan / Geezer Records. All rights reserved.</copyright><lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gerry-morgan.github.io/categories/innovation/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to the Daily Innovation Report</title><link>https://gerry-morgan.github.io/blog/2026/04/welcome-to-the-daily-innovation-report/</link><pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate><guid>https://gerry-morgan.github.io/blog/2026/04/welcome-to-the-daily-innovation-report/</guid><description>This is the Daily Innovation Report. The idea is simple: show up every day, notice something, write about it.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation on Gerry Morgan | Songwriter · Author · Educator · Software Designer</title>
+    <link>https://gerry-morgan.github.io/categories/innovation/</link>
+    <description>Recent content in Innovation on Gerry Morgan | Songwriter · Author · Educator · Software Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <copyright>© 2026 Gerry Morgan / Geezer Records. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gerry-morgan.github.io/categories/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the Daily Innovation Report</title>
+      <link>https://gerry-morgan.github.io/blog/2026/04/welcome-to-the-daily-innovation-report/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/blog/2026/04/welcome-to-the-daily-innovation-report/</guid>
+      <description>This is the Daily Innovation Report. The idea is simple: show up every day, notice something, write about it.
 Innovation isn&amp;rsquo;t always a breakthrough. Most of the time it&amp;rsquo;s a small observation — a better way to phrase a lyric, a cleaner approach to a software problem, a teaching method that actually lands. The daily practice is what matters.
-Some days the report will be about music. Some days about software.</description></item><item><title>On Writing 900 Songs</title><link>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</link><pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate><guid>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</guid><description>People ask how you write 900 songs. The answer is boring: you write one song, and then you do it again tomorrow.
+Some days the report will be about music. Some days about software.</description>
+    </item>
+    
+    <item>
+      <title>On Writing 900 Songs</title>
+      <link>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</guid>
+      <description>People ask how you write 900 songs. The answer is boring: you write one song, and then you do it again tomorrow.
 There&amp;rsquo;s no trick to prolific output. There&amp;rsquo;s just the commitment to sit down and do the work even when you don&amp;rsquo;t feel inspired. Especially when you don&amp;rsquo;t feel inspired. Inspiration is a visitor. Discipline lives in the house.
-Not every song is great. Some are mediocre. A few are terrible.</description></item></channel></rss>
+Not every song is great. Some are mediocre. A few are terrible.</description>
+    </item>
+    
+  </channel>
+</rss>
