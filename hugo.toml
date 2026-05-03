@@ -5,7 +5,7 @@ baseURL = "https://gerry-morgan.github.io/"
 languageCode = "en-ca"
 title = "Gerry Morgan | Songwriter · Author · Educator · Software Designer"
 theme = "geezer"
-copyright = "© {year} Gerry Morgan / Geezer Records. All rights reserved."
+copyright = "© 2026 Gerry Morgan / Geezer Records. All rights reserved."
 
 [params]
   author = "Gerry Morgan"

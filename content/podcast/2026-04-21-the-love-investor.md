@@ -7,3 +7,5 @@ duration: "00:18:58"
 episode_image: "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45755356/45755356-1775930824647-4f02244f5a49c.jpg"
 draft: false
 ---
+
+Are you a Love Investor?
