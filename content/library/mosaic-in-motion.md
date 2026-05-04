@@ -4,6 +4,7 @@ description: "A celebration of Canada's multicultural tapestry and the dynamic c
 download_link: "/books/mosaic-in-motion.pdf"
 category: "Society & Culture"
 draft: false
+image: "/images/library/mosaic-in-motion.jpg"
 ---
 
 *Mosaic in Motion* captures the energy and beauty of Canada's cultural diversity. Gerry Morgan examines how the interplay of traditions, languages, and stories creates a living, evolving national identity.

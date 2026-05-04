@@ -4,6 +4,7 @@ description: "An exploration of how artificial intelligence is transforming song
 download_link: "/books/ai-role-in-music-creation.pdf"
 category: "Technology & Music"
 draft: false
+image: "/images/library/ai-role-in-music-creation.jpg"
 ---
 
 *AI's Role in Music Creation* examines the rapidly evolving relationship between artificial intelligence and the art of making music. Gerry Morgan brings a songwriter's perspective to the conversation, asking the questions that matter: Can AI truly create? What does this mean for human musicians? And how can we use these tools without losing our soul?

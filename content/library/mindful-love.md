@@ -4,6 +4,7 @@ description: "A compassionate guide to building healthier relationships through 
 download_link: "/books/mindful-love.pdf"
 category: "Wellness & Relationships"
 draft: false
+image: "/images/library/mindful-love.jpg"
 ---
 
 *Mindful Love* explores the intersection of mental health and relationships. Gerry Morgan writes with warmth and candour about the challenges of loving well — and being loved — when life gets complicated.

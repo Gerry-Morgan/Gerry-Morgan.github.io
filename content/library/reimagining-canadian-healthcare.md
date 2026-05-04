@@ -4,6 +4,7 @@ description: "Strategies and proposals for restructuring Canada's healthcare sys
 download_link: "/books/reimagining-canadian-healthcare.pdf"
 category: "Policy & Vision"
 draft: false
+image: "/images/library/reimagining-canadian-healthcare.jpg"
 ---
 
 *Re-Imagining Canadian Healthcare* tackles the systemic issues facing Canada's public health system. Gerry Morgan draws on research, personal experience, and a deep belief in universal care to propose strategies for effective restructuring.

@@ -4,6 +4,7 @@ description: "A personal legacy work for grandchildren — sharing the wisdom, h
 download_link: "/books/grandpa-gerry.pdf"
 category: "Memoir & Family"
 draft: false
+image: "/images/library/grandpa-gerry.png"
 ---
 
 *Grandpa Gerry* is a heartfelt book written for Gerry Morgan's grandchildren. It captures the stories, lessons, and laughter gathered over a lifetime of teaching, songwriting, and exploring the world.

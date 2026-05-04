@@ -4,6 +4,7 @@ description: "A playful and philosophical exploration of everyday life, told thr
 download_link: "/books/life-in-the-refrigerator.pdf"
 category: "Creative Writing"
 draft: false
+image: "/images/library/life-in-the-refrigerator.png"
 ---
 
 *Life in the Refrigerator* is Gerry Morgan at his most inventive — blending humour, observation, and a dash of the absurd to explore the small dramas of everyday existence.

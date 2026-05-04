@@ -4,6 +4,7 @@ description: "Practical solutions and innovative proposals for tackling Canada's
 download_link: "/books/housing-crisis.pdf"
 category: "Policy & Vision"
 draft: false
+image: "/images/library/housing-crisis.jpg"
 ---
 
 *Housing Crisis* confronts one of Canada's most pressing challenges head-on. Gerry Morgan examines the root causes of the affordability crisis and proposes a range of solutions — from policy reforms and cooperative housing models to innovative construction techniques and community land trusts.

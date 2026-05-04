@@ -4,6 +4,7 @@ description: "A vision document for a national arts initiative celebrating Canad
 download_link: "/books/canadian-performance-project.pdf"
 category: "Arts & Culture"
 draft: false
+image: "/images/library/canadian-performance-project.png"
 ---
 
 *Canadian Performance Project* outlines a bold vision for celebrating and supporting the performing arts across Canada. Drawing on decades of experience as an educator, songwriter, and cultural advocate, Gerry Morgan presents a framework for nurturing homegrown talent.

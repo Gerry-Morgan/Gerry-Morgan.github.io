@@ -4,6 +4,7 @@ description: "A frank and heartfelt look at the needs, rights, and contributions
 download_link: "/books/we-the-seniors.pdf"
 category: "Society & Advocacy"
 draft: false
+image: "/images/library/we-the-seniors.png"
 ---
 
 *We the Seniors* is a rallying cry for dignity, respect, and better support for older Canadians. Gerry Morgan — a proud senior himself — writes from the inside, blending personal stories with policy analysis.

@@ -4,6 +4,7 @@ description: "The definitive collection of lyrics, reflections, and insights fro
 download_link: "/books/gerrys-song-book.pdf"
 category: "Music & Songwriting"
 draft: false
+image: "/images/library/gerrys-song-book.png"
 ---
 
 With more than 900 original songs to his name, Gerry Morgan is one of Canada's most prolific songwriters. *Gerry's Song Book* compiles lyrics and commentary from across this remarkable body of work.

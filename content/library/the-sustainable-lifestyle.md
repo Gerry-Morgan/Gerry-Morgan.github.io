@@ -4,6 +4,7 @@ description: "A comprehensive guide to self-sufficient living, homesteading, and
 download_link: "/books/the-sustainable-lifestyle.pdf"
 category: "Sustainability & Lifestyle"
 draft: false
+image: "/images/library/the-sustainable-lifestyle.jpg"
 ---
 
 *The Sustainable Lifestyle* is a practical and philosophical guide for anyone drawn to the idea of living closer to the earth. Gerry Morgan draws on real-world experience to cover everything from small-scale farming and energy independence to the mindset shift required to leave the grid behind.

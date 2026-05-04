@@ -4,6 +4,7 @@ description: "A meditative and deeply personal collection exploring themes of lo
 download_link: "/books/go-with-love.pdf"
 category: "Poetry & Reflection"
 draft: false
+image: "/images/library/go-with-love.png"
 ---
 
 *Go With Love* is a tender, reflective work drawn from the emotional landscape of a life richly lived. Gerry Morgan writes about love in all its forms — romantic, familial, platonic, and self-directed.
