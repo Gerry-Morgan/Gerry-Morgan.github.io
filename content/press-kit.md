@@ -17,6 +17,13 @@ A 30-song rock opera that serves as the centerpiece of the catalogue. *Pantokrat
 
 ---
 
+### 📰 Recent Press
+
+- **Grateful Web (May 6, 2026):** ["Gerry Morgan Shares Meditative World Fusion Track "Shanti, Shiwa, Aramesh""](https://www.gratefulweb.com/articles/gerry-morgan-shares-meditative-world-fusion-track-shanti-shiwa-aramesh/)
+  - *Quote: "Canadian songwriter Gerry Morgan releases "Shanti, Shiwa, Aramesh," a meditative world fusion piece centered on peace across cultures."*
+
+---
+
 ### 📂 The Four Strategic Sonic Pillars
 
 #### 1. Cohen-Adjacent Literary Folk
