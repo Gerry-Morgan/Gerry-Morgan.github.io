@@ -54,19 +54,24 @@ copyright = "© 2026 Gerry Morgan / Geezer Records. All rights reserved."
     weight = 6
 
   [[menu.main]]
+    name = "Fan Club"
+    url = "/fan-club/"
+    weight = 7
+
+  [[menu.main]]
     name = "The Geezer Sessions"
     url = "/podcast/"
-    weight = 7
+    weight = 8
 
   [[menu.main]]
     name = "Blog"
     url = "/blog/"
-    weight = 8
+    weight = 9
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 9
+    weight = 10
 
 [markup]
   [markup.goldmark]
