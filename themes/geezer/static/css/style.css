@@ -246,21 +246,7 @@ h3 { font-size: 1.4rem; }
   opacity: 0.5;
 }
 
-/* --- Vinyl Animation Placeholder --- */
-.vinyl-record {
-  width: 200px;
-  height: 200px;
-  background: #333;
-  border-radius: 50%;
-  margin: 2rem auto;
-  border: 10px solid #222;
-  box-shadow: 0 0 20px rgba(0,0,0,0.5);
-  animation: spin 5s linear infinite;
-}
-
-@keyframes spin {
-  100% { transform: rotate(360deg); }
-}
+/* --- Vinyl Animation (removed — replaced by hero portrait) --- */
 
 /* --- Responsive --- */
 @media (max-width: 768px) {
@@ -286,43 +272,22 @@ h3 { font-size: 1.4rem; }
   justify-content: center;
 }
 
-.vinyl-record {
-  width: 280px;
-  height: 280px;
-  background: repeating-radial-gradient(
-    circle at center,
-    #111 0,
-    #111 2px,
-    #1a1a1a 4px,
-    #111 6px
-  );
-  border-radius: 50%;
-  position: relative;
-  box-shadow: 0 15px 50px rgba(0,0,0,0.4);
-  animation: spin 8s linear infinite;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.hero-portrait {
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35), 0 4px 16px rgba(196, 154, 0, 0.15);
+  border: 3px solid var(--color-border);
+  display: block;
+  margin: 0 auto;
+  object-fit: cover;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.vinyl-center {
-  width: 100px;
-  height: 100px;
-  background: var(--color-accent);
-  border-radius: 50%;
-  border: 4px solid #111;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.vinyl-center::after {
-  content: "";
-  width: 10px;
-  height: 100px;
-  background: rgba(255,255,255,0.1);
-  position: absolute;
-  transform: rotate(45deg);
+.hero-portrait:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 28px 70px rgba(0, 0, 0, 0.4), 0 8px 24px rgba(196, 154, 0, 0.2);
 }
 
 .card-art {
@@ -335,19 +300,13 @@ h3 { font-size: 1.4rem; }
   border: 1px solid var(--color-border);
 }
 
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
 @media (max-width: 900px) {
   .intro .container {
     flex-direction: column;
     text-align: center;
   }
-  .vinyl-record {
-    width: 200px;
-    height: 200px;
+  .hero-portrait {
+    max-width: 280px;
   }
 }
 
