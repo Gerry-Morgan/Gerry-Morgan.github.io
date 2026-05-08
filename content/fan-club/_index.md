@@ -19,6 +19,12 @@ Sign up with your email and get an instant download of **'Soul Shuffle'** — an
 
 Follow Gerry on Spotify and YouTube to unlock **'The Art of Geezer Records' Digital Pack** — a curated collection of high-resolution album art, digital songbooks, and behind-the-scenes liner notes.
 
+#### Step 3: Support the Launch
+
+Pre-save **'Imperfect Inspiration'** — a new collection of 10 tracks releasing on June 8th (Gerry's birthday). Your pre-save helps the album chart on release day and gets it in your library the moment it drops.
+
+[Pre-Save on Spotify](https://distrokid.com/hyperfollow/gerrymorgan/imperfect-inspiration)
+
 ---
 
 ### The Record Art Gallery

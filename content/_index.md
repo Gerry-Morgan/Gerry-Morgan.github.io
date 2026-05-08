@@ -9,3 +9,9 @@ I'm **Gerry Morgan** — a Canadian songwriter, author, educator, and software d
 With over **900 songs** written, a rock opera called *Pantokrator*, daily innovation reports, and decades of work in education and software, this site is the home base for all of it.
 
 **Geezer Records** is the label. The work is the point.
+
+### 🎂 Birthday Release: Pre-Save 'Imperfect Inspiration'
+
+To celebrate my birthday on June 8th, I'm releasing a new collection of 10 tracks. You can support the launch by pre-saving the album today.
+
+[Pre-Save on Spotify](https://distrokid.com/hyperfollow/gerrymorgan/imperfect-inspiration)
