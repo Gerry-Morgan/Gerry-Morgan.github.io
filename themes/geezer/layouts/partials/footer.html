@@ -16,6 +16,16 @@
       </ul>
     </nav>
     {{ end }}
+    <div class="footer-social">
+      {{ with .Site.Params.social.bluesky }}
+      <a href="{{ . }}" class="footer-social-link" target="_blank" rel="noopener noreferrer" aria-label="Bluesky">
+        <svg class="footer-social-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 501" aria-hidden="true" focusable="false">
+          <path d="M123.121 33.664C188.241 82.553 258.281 181.68 284 234.873c25.719-53.192 95.759-152.32 160.879-201.21C491.866-1.611 568-28.906 568 57.947c0 17.346-9.945 145.713-15.778 166.555-20.275 72.453-94.155 90.933-159.875 79.748C507.222 323.8 536.444 388.56 473.922 453.32c-119.86 122.992-172.252-30.859-185.702-70.281-2.667-7.818-3.916-11.479-3.92-8.379-.004-3.1-1.253.561-3.92 8.379-13.45 39.422-65.842 193.273-185.702 70.281-62.522-64.76-33.3-129.52 81.675-149.07-65.72 11.185-139.6-7.295-159.875-79.748C10.945 203.66 1 75.293 1 57.947 1-28.906 77.134-1.611 123.121 33.664Z"/>
+        </svg>
+        <span>Bluesky</span>
+      </a>
+      {{ end }}
+    </div>
     <div class="footer-rss">
       <a href="{{ "index.xml" | absURL }}" title="RSS Feed">RSS Feed</a>
     </div>

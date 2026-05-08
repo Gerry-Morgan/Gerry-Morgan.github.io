@@ -132,6 +132,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://gerry-morgan.github.io/music/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://gerry-morgan.github.io/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -189,10 +194,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://gerry-morgan.github.io/library/mosaic-in-motion/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gerry-morgan.github.io/music/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

@@ -20,7 +20,7 @@ copyright = "© 2026 Gerry Morgan / Geezer Records. All rights reserved."
   email = "hello@gerrymorgan.ca"
 
 [params.social]
-  # Uncomment and fill in as needed
+  bluesky = "https://bsky.app/profile/gerrymorgan.bsky.social"
 
 [menu]
   [[menu.main]]
