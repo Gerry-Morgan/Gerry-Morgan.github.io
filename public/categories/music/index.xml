@@ -1,20 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Music on Gerry Morgan | Songwriter · Author · Educator · Software Designer</title>
-    <link>https://gerry-morgan.github.io/categories/music/</link>
-    <description>Recent content in Music on Gerry Morgan | Songwriter · Author · Educator · Software Designer</description>
-    <generator>Hugo</generator>
-    <language>en-ca</language>
-    <copyright>© 2026 Gerry Morgan / Geezer Records. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gerry-morgan.github.io/categories/music/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>On Writing 900 Songs</title>
-      <link>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</link>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</guid>
-      <description>&lt;p&gt;People ask how you write 900 songs. The answer is boring: you write one song, and then you do it again tomorrow.&lt;/p&gt;&#xA;&lt;p&gt;There&amp;rsquo;s no trick to prolific output. There&amp;rsquo;s just the commitment to sit down and do the work even when you don&amp;rsquo;t feel inspired. Especially when you don&amp;rsquo;t feel inspired. Inspiration is a visitor. Discipline lives in the house.&lt;/p&gt;&#xA;&lt;p&gt;Not every song is great. Some are mediocre. A few are terrible. But scattered through the catalogue are songs that surprised me — ones that came out better than I had any right to expect. Those songs only exist because I was at the desk that day.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Music on Gerry Morgan | Songwriter · Author · Educator · Software Designer</title><link>https://gerry-morgan.github.io/categories/music/</link><description>Recent content in Music on Gerry Morgan | Songwriter · Author · Educator · Software Designer</description><generator>Hugo</generator><language>en-ca</language><copyright>© 2026 Gerry Morgan / Geezer Records. All rights reserved.</copyright><lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gerry-morgan.github.io/categories/music/index.xml" rel="self" type="application/rss+xml"/><item><title>On Writing 900 Songs</title><link>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</link><pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate><guid>https://gerry-morgan.github.io/blog/2026/04/on-writing-900-songs/</guid><description>&lt;p>People ask how you write 900 songs. The answer is boring: you write one song, and then you do it again tomorrow.&lt;/p>
+&lt;p>There&amp;rsquo;s no trick to prolific output. There&amp;rsquo;s just the commitment to sit down and do the work even when you don&amp;rsquo;t feel inspired. Especially when you don&amp;rsquo;t feel inspired. Inspiration is a visitor. Discipline lives in the house.&lt;/p>
+&lt;p>Not every song is great. Some are mediocre. A few are terrible. But scattered through the catalogue are songs that surprised me — ones that came out better than I had any right to expect. Those songs only exist because I was at the desk that day.&lt;/p></description></item></channel></rss>

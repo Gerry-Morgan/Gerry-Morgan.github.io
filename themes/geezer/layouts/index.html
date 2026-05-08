@@ -47,6 +47,13 @@
   </div>
 </section>
 
+<section class="quiz-section">
+  <div class="container">
+    <h2 class="quiz-section-heading">🧩 Find Your Geezer Vibe</h2>
+    {{ partial "quiz.html" . }}
+  </div>
+</section>
+
 {{ $posts := where .Site.RegularPages "Section" "blog" }}
 {{ if $posts }}
 <section class="recent-posts">

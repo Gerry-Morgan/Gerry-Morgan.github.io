@@ -1,0 +1,223 @@
+<!-- Geezer Song Matchmaker Quiz -->
+<div id="geezer-quiz" class="quiz-container">
+  <div class="quiz-inner">
+
+    <!-- Progress bar -->
+    <div class="quiz-progress">
+      <div class="quiz-progress-bar" id="quizProgressBar"></div>
+    </div>
+
+    <!-- Question 1: Energy -->
+    <div class="quiz-step active" data-step="1">
+      <p class="quiz-step-label">Question 1 of 3</p>
+      <h3 class="quiz-question">What kind of energy speaks to you right now?</h3>
+      <div class="quiz-options">
+        <button class="quiz-option" data-q="1" data-value="mountains">
+          <span class="quiz-option-icon">⛰️</span>
+          <span class="quiz-option-text">Mountains could move — raw, unstoppable power</span>
+        </button>
+        <button class="quiz-option" data-q="1" data-value="quiet">
+          <span class="quiz-option-icon">🕯️</span>
+          <span class="quiz-option-text">Quiet and reflective — sitting with memory</span>
+        </button>
+        <button class="quiz-option" data-q="1" data-value="drift">
+          <span class="quiz-option-icon">🌬️</span>
+          <span class="quiz-option-text">Drift and breathe — stillness as strength</span>
+        </button>
+        <button class="quiz-option" data-q="1" data-value="curious">
+          <span class="quiz-option-icon">🌍</span>
+          <span class="quiz-option-text">Curious about the world — open to everything</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Question 2: Location -->
+    <div class="quiz-step" data-step="2">
+      <p class="quiz-step-label">Question 2 of 3</p>
+      <h3 class="quiz-question">Pick a place that feels like home:</h3>
+      <div class="quiz-options">
+        <button class="quiz-option" data-q="2" data-value="calgary">
+          <span class="quiz-option-icon">🏙️</span>
+          <span class="quiz-option-text">A Calgary street at golden hour</span>
+        </button>
+        <button class="quiz-option" data-q="2" data-value="cabin">
+          <span class="quiz-option-icon">🏔️</span>
+          <span class="quiz-option-text">A snowy cabin with a crackling fire</span>
+        </button>
+        <button class="quiz-option" data-q="2" data-value="prairie">
+          <span class="quiz-option-icon">🌌</span>
+          <span class="quiz-option-text">A starry prairie stretching to the horizon</span>
+        </button>
+        <button class="quiz-option" data-q="2" data-value="festival">
+          <span class="quiz-option-icon">🎪</span>
+          <span class="quiz-option-text">A lively festival full of music and people</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Question 3: Story -->
+    <div class="quiz-step" data-step="3">
+      <p class="quiz-step-label">Question 3 of 3</p>
+      <h3 class="quiz-question">What story do you need a song to tell?</h3>
+      <div class="quiz-options">
+        <button class="quiz-option" data-q="3" data-value="resilience">
+          <span class="quiz-option-icon">🔥</span>
+          <span class="quiz-option-text">Resilience and power — the fire inside</span>
+        </button>
+        <button class="quiz-option" data-q="3" data-value="legacy">
+          <span class="quiz-option-icon">📜</span>
+          <span class="quiz-option-text">Legacy and memory — what we carry forward</span>
+        </button>
+        <button class="quiz-option" data-q="3" data-value="peace">
+          <span class="quiz-option-icon">☮️</span>
+          <span class="quiz-option-text">Peace and stillness — a deep exhale</span>
+        </button>
+        <button class="quiz-option" data-q="3" data-value="smile">
+          <span class="quiz-option-icon">😊</span>
+          <span class="quiz-option-text">Something to make me smile and think</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Result -->
+    <div class="quiz-result" id="quizResult">
+      <div class="quiz-result-glow"></div>
+      <p class="quiz-result-label">Your Geezer Song Match</p>
+      <h3 class="quiz-result-title" id="resultTitle"></h3>
+      <p class="quiz-result-desc" id="resultDesc"></p>
+      <a class="quiz-spotify-btn" id="resultSpotify" href="#" target="_blank" rel="noopener noreferrer">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/></svg>
+        Listen on Spotify
+      </a>
+      <button class="quiz-restart" id="quizRestart">Take the quiz again ↻</button>
+    </div>
+
+  </div>
+</div>
+
+<script>
+(function() {
+  var songs = {
+    surrender:    { title: "Surrender", desc: "An 8-minute epic about letting go and finding strength in vulnerability — when the mountains finally move.", spotify: "https://open.spotify.com/album/5NXUOZmniR5c68fhHDpgl0" },
+    almostAlways: { title: "Almost Always", desc: "Tender and honest, this track sits with you like an old friend recalling what matters most.", spotify: "https://open.spotify.com/track/2EB4Kzb3wuhhFr3jDPYl5M" },
+    tajagra:      { title: "Tajagra", desc: "A world-fusion journey that crosses borders and opens doors you didn't know were there.", spotify: "https://open.spotify.com/album/2RcB7IOVvmSWJMnftzsoha" },
+    shanti:       { title: "Shanti, Shiwa, Aramesh", desc: "Peace spoken in three languages — Sanskrit, Japanese, and Farsi — woven into a meditative soundscape.", spotify: "https://open.spotify.com/track/1WtjrPsLbSNd89wpV5gaaQ" },
+    architects:   { title: "Architects of Thunder", desc: "Bold and cinematic — a song for builders, dreamers, and those who shake the ground they walk on.", spotify: "https://open.spotify.com/artist/2XuRnP3BJg2V4Gr0fhBSmw" },
+    stones:       { title: "Stones in Your Pocket", desc: "Gritty and grounded — carrying the weight of the past and turning it into something beautiful.", spotify: "https://open.spotify.com/artist/2XuRnP3BJg2V4Gr0fhBSmw" },
+    mighty:       { title: "Mighty Fade Away", desc: "A reflective anthem about what endures after the noise fades — the quiet things that last.", spotify: "https://open.spotify.com/artist/2XuRnP3BJg2V4Gr0fhBSmw" },
+    monsoon:      { title: "Hallelujah, The Monsoon Comes", desc: "A spiritual downpour — celebration meets reverence in this sweeping, rain-soaked hymn.", spotify: "https://open.spotify.com/track/1DUXTi2u31l5uDbNNHwNF3" }
+  };
+
+  // Scoring matrix: each answer adds points to song keys
+  var scoring = {
+    // Q1 Energy
+    mountains:  { surrender: 3, architects: 3, stones: 2, monsoon: 1 },
+    quiet:      { almostAlways: 3, mighty: 3, stones: 2, shanti: 1 },
+    drift:      { shanti: 3, tajagra: 2, mighty: 2, almostAlways: 1 },
+    curious:    { tajagra: 3, monsoon: 2, architects: 1, surrender: 1 },
+    // Q2 Location
+    calgary:    { stones: 3, almostAlways: 2, architects: 2, mighty: 1 },
+    cabin:      { almostAlways: 3, mighty: 2, shanti: 2, surrender: 1 },
+    prairie:    { shanti: 3, tajagra: 2, surrender: 2, mighty: 1 },
+    festival:   { monsoon: 3, architects: 3, surrender: 1, tajagra: 1 },
+    // Q3 Story
+    resilience: { surrender: 3, architects: 3, monsoon: 1, stones: 1 },
+    legacy:     { almostAlways: 3, stones: 3, mighty: 2, tajagra: 1 },
+    peace:      { shanti: 3, tajagra: 2, mighty: 2, almostAlways: 1 },
+    smile:      { monsoon: 3, tajagra: 2, architects: 1, stones: 1 }
+  };
+
+  var answers = {};
+  var container = document.getElementById('geezer-quiz');
+  var steps = container.querySelectorAll('.quiz-step');
+  var progressBar = document.getElementById('quizProgressBar');
+  var resultPanel = document.getElementById('quizResult');
+
+  function updateProgress(step) {
+    progressBar.style.width = ((step / 3) * 100) + '%';
+  }
+
+  function showStep(n) {
+    for (var i = 0; i < steps.length; i++) {
+      steps[i].classList.remove('active');
+    }
+    if (n <= 3) {
+      steps[n - 1].classList.add('active');
+      updateProgress(n - 1);
+    }
+  }
+
+  function calculateResult() {
+    var scores = {};
+    var keys = Object.keys(songs);
+    for (var k = 0; k < keys.length; k++) scores[keys[k]] = 0;
+
+    for (var q in answers) {
+      var val = answers[q];
+      var s = scoring[val];
+      if (s) {
+        for (var songKey in s) {
+          scores[songKey] = (scores[songKey] || 0) + s[songKey];
+        }
+      }
+    }
+
+    var best = null, bestScore = -1;
+    for (var sk in scores) {
+      if (scores[sk] > bestScore) {
+        bestScore = scores[sk];
+        best = sk;
+      }
+    }
+    return songs[best];
+  }
+
+  function showResult() {
+    var match = calculateResult();
+    document.getElementById('resultTitle').textContent = match.title;
+    document.getElementById('resultDesc').textContent = match.desc;
+    document.getElementById('resultSpotify').href = match.spotify;
+
+    for (var i = 0; i < steps.length; i++) steps[i].classList.remove('active');
+    resultPanel.classList.add('active');
+    updateProgress(3);
+  }
+
+  // Option click handler (event delegation)
+  container.addEventListener('click', function(e) {
+    var btn = e.target.closest('.quiz-option');
+    if (!btn) return;
+
+    var q = btn.getAttribute('data-q');
+    var val = btn.getAttribute('data-value');
+    answers['q' + q] = val;
+
+    // Highlight selected
+    var siblings = btn.parentNode.querySelectorAll('.quiz-option');
+    for (var i = 0; i < siblings.length; i++) siblings[i].classList.remove('selected');
+    btn.classList.add('selected');
+
+    // Advance after brief delay
+    setTimeout(function() {
+      var next = parseInt(q) + 1;
+      if (next <= 3) {
+        showStep(next);
+      } else {
+        showResult();
+      }
+    }, 350);
+  });
+
+  // Restart
+  document.getElementById('quizRestart').addEventListener('click', function() {
+    answers = {};
+    resultPanel.classList.remove('active');
+    var allOptions = container.querySelectorAll('.quiz-option');
+    for (var i = 0; i < allOptions.length; i++) allOptions[i].classList.remove('selected');
+    showStep(1);
+  });
+
+  // Init
+  showStep(1);
+})();
+</script>
