@@ -16,10 +16,15 @@
         <h2>Join the List</h2>
         <p>Sign up with your email and get an instant download of <strong>'Soul Shuffle'</strong> — an unreleased Geezer Records track, yours to keep.</p>
         <div class="email-form-placeholder">
-          <form class="fan-email-form" onsubmit="return false;">
+          <form id="fan-email-form" class="fan-email-form">
             <input type="email" placeholder="Your email address" class="fan-email-input" aria-label="Email address" />
             <button type="submit" class="btn btn-download fan-submit-btn">Join &amp; Download</button>
           </form>
+          <div id="fan-success-message" class="fan-success">
+            <h3>Welcome to the Inner Circle!</h3>
+            <p>Your download of 'Soul Shuffle' is ready.</p>
+            <a href="https://drive.google.com/uc?export=download&id=1NfjZL-zES_PNFvO6wF3LTnhdm4znCwAJ" class="btn btn-download">Download Track (WAV)</a>
+          </div>
           <p class="form-note">No spam, ever. Just music and art from Geezer Records.</p>
         </div>
       </div>
@@ -104,4 +109,11 @@
     </div>
   </div>
 </section>
+<script>
+document.getElementById('fan-email-form').addEventListener('submit', function(e) {
+  e.preventDefault();
+  this.style.display = 'none';
+  document.getElementById('fan-success-message').style.display = 'block';
+});
+</script>
 {{ end }}

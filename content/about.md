@@ -1,37 +1,89 @@
 ---
 title: "About Gerry Morgan"
-description: "Professional biography of Gerry Morgan — Canadian songwriter, author, educator, and software designer."
+description: "The story behind the music, the books, and the questions that drive Gerry Morgan."
 layout: "single"
-draft: false
 ---
+
+# About Gerry Morgan
 
 ## The Short Version
 
-Gerry Morgan is a Canadian songwriter, author, educator, and software designer. He has written more than 900 songs, authored works spanning multiple genres, designed software used in educational contexts, and taught across a variety of settings. He runs **Geezer Records**, an independent label built to house and release his music on his own terms.
+Gerry Morgan is a Canadian songwriter, author, and educator 
+based in Calgary, Alberta. He has written nearly 1,000 original 
+compositions, a full-length rock opera, and books spanning 
+philosophy, faith, history, and fiction. He runs Geezer Records, 
+his independent label, on his own terms.
+
+But the short version doesn't really cover it.
 
 ---
 
-## Songwriter
+## The Longer Truth
 
-Music has been the throughline. With a catalogue of over 900 original compositions — spanning folk, rock, blues, country, gospel, and experimental territory — Gerry's songwriting is prolific by any measure. His rock opera *[Pantokrator](/pantokrator/)* stands as one of the most ambitious works in the catalogue: a large-scale narrative work that blends theatre, theology, and raw musical storytelling.
+There is a single question running through everything Gerry 
+Morgan has ever written.
 
-## Author
+*What does transformation cost?*
 
-Beyond lyrics, Gerry writes prose. His published and in-progress works cover topics from faith and philosophy to technology and daily life. The *[Blog](/blog/)* section of this site features his **Daily Innovation Reports** — short-form reflections on ideas, creativity, and the discipline of showing up every day.
+It's there in Pantokrator — a young woman offered the power 
+to save humanity, if she surrenders her humanity to do it. 
+It's there in Burn the Map, Beloved — two people who must 
+destroy their separate visions of the future to build 
+something real together. It's there in Surrender, in Bridges 
+We Burn, in The Temple of Resurrection. In nearly 1,000 songs 
+across four decades.
 
-## Educator
+Gerry didn't plan it that way. That's just what came out 
+when he sat down and listened.
 
-Teaching has been both a vocation and a calling. Gerry has spent years working in education — developing curriculum, mentoring students, and building tools that make learning more effective and humane. His approach blends deep subject knowledge with genuine care for the people in the room.
+---
 
-## Software Designer
+## The Music
 
-Long before "no-code" was a buzzword, Gerry was designing software systems. His work in software design focuses on practical tools for real people — particularly in educational and creative contexts. He brings a builder's mindset: understand the problem, design something that works, iterate.
+The sound is harder to categorize than the themes. Western 
+folk and rock at the foundation. Indian classical 
+instrumentation woven through — sitar, tabla, the ancient 
+pull of bhakti devotion. Leonard Cohen's liturgical darkness. 
+Joni Mitchell's confessional precision. The occasional 
+surprise of harmonica meeting sitar over a prairie 
+backbeat — which, when it works, is genuinely mind-blowing.
+
+His catalog spans folk, rock, blues, gospel, country, 
+and experimental territory. His most-streamed song, 
+Almost Always, has found listeners in dozens of countries. 
+His most ambitious work, the rock opera Pantokrator, 
+asks questions about artificial intelligence, sacrifice, 
+and what it means to be human that feel more urgent 
+every year.
+
+He writes because he can't stop. He releases consistently 
+under Geezer Records because the work deserves a proper home.
+
+---
+
+## The Life
+
+Gerry Morgan has been a teacher, an innovator, and a builder 
+of things — software, curricula, systems that help people 
+learn and create. He received awards for innovation and for 
+his ability to reach students, to make difficult ideas 
+suddenly clear.
+
+He is based in Calgary, Alberta — prairie horizon in every 
+direction, the kind of landscape that produces people who 
+look at the edge of the world and think: *what's out there?*
+
+He is nearly 73 years old and in the most creatively 
+concentrated period of his life.
 
 ---
 
 ## Geezer Records
 
-**Geezer Records** is Gerry's independent music label. It exists for one reason: to give his music a proper home. No gatekeepers, no waiting for permission. Just songs, recorded and released with care.
+Independent. Calgary-based. No gatekeepers, no waiting 
+for permission.
+
+The name is the joke. The music is not.
 
 ---
 
