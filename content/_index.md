@@ -4,8 +4,6 @@ description: "Songwriter · Philosopher · Provocateur"
 draft: false
 ---
 
-# Gerry Morgan
-
 ### Songwriter · Philosopher · Provocateur
 
 Calgary, Alberta · Geezer Records

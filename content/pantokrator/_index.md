@@ -5,9 +5,7 @@ layout: "single"
 draft: false
 ---
 
-# Pantokrator — The Rock Opera
-
-A Rock Opera by Gerry Morgan
+### A Rock Opera by Gerry Morgan
 
 ---
 

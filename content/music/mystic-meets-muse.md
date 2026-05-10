@@ -5,8 +5,6 @@ layout: "single"
 date: 2026-05-10
 ---
 
-# Mystic Meets Muse
-
 **Gerry Morgan's most fully realized work.**
 
 Eight songs at the intersection of Leonard Cohen's liturgical 

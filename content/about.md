@@ -4,8 +4,6 @@ description: "The story behind the music, the books, and the questions that driv
 layout: "single"
 ---
 
-# About Gerry Morgan
-
 ## The Short Version
 
 Gerry Morgan is a Canadian songwriter, author, and educator 

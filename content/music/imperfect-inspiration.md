@@ -5,8 +5,6 @@ layout: "single"
 date: 2026-05-10
 ---
 
-# Imperfect Inspiration
-
 **A new collection of 10 tracks, releasing June 8th, 2026.**
 
 This album marks a creatively concentrated period for Gerry Morgan, 
