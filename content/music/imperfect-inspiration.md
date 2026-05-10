@@ -2,7 +2,7 @@
 title: "Imperfect Inspiration"
 description: "The upcoming 10-track album by Gerry Morgan. Releasing June 8th, 2026."
 layout: "single"
-date: 2026-06-08
+date: 2026-05-10
 ---
 
 # Imperfect Inspiration
