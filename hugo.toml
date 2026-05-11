@@ -21,6 +21,7 @@ copyright = "© 2026 Gerry Morgan / Geezer Records. All rights reserved."
 
 [params.social]
   bluesky = "https://bsky.app/profile/gerrymorgan.bsky.social"
+  spotify = "https://open.spotify.com/artist/2XuRnP3BJg2V4Gr0fhBSmw"
 
 [menu]
   [[menu.main]]
