@@ -1,82 +1,50 @@
 ---
-title: "Gerry Morgan"
-description: "Songwriter · Philosopher · Provocateur"
+title: "The Vision"
+description: "Canadian Sky: The Atmosphere of Transformation by Gerry Morgan."
 draft: false
 ---
 
-### Songwriter · Philosopher · Provocateur
+# The Atmosphere of Transformation
 
-Calgary, Alberta · Geezer Records
+Welcome to the digital home of **Canadian Sky**—the flagship musical project of Calgary-based songwriter, philosopher, and provocateur Gerry Morgan.
 
----
-
-Nearly 1,000 songs. One rock opera. A question that 
-won't leave him alone.
-
-*What does transformation cost?*
-
-It runs through everything Gerry Morgan writes — the 
-woman who must surrender her humanity to save humanity. 
-The lovers who must burn their maps to find each other. 
-The bridges we cross and then set on fire behind us. 
-The veils we wear so nobody sees who we really are.
-
-Set to music that refuses to stay in one place. Western 
-folk and rock. Indian classical instrumentation. Sitar 
-and harmonica over a prairie backbeat. Leonard Cohen's 
-darkness. Joni Mitchell's precision. Something that 
-doesn't have a name yet.
-
-Released consistently under Geezer Records — his 
-independent Calgary label — because the work deserves 
-a proper home and he stopped waiting for permission 
-a long time ago.
+Nearly 1,000 songs. One rock opera. A question that won't leave him alone: **What does transformation cost?**
 
 ---
 
 ## Introducing Canadian Sky
 
-**The new musical project from Gerry Morgan.**
+Canadian Sky represents the most atmospheric and collaborative extension of Gerry Morgan's songwriting. It is where the vastness of the Canadian horizon meets the ancient pull of bhakti devotion.
 
-Canadian Sky represents the most atmospheric and collaborative 
-extension of Gerry Morgan's songwriting. It is where the 
-vastness of the Canadian horizon meets the ancient pull of 
-bhakti devotion. 
-
-[Explore Canadian Sky →](/music/canadian-sky/)
-
----
-
-## Start Here
-
-Almost Always — his most-streamed song. 
-Over 52,000 listeners and counting.
-
-[Listen on Spotify →](https://open.spotify.com/artist/2XuRnP3BJg2V4Gr0fhBSmw)
-
----
-
-## New Release — Imperfect Inspiration
-
-A new collection of 10 tracks, released June 8th 
-to celebrate Gerry's birthday.
-
-[Pre-Save on Spotify →](https://distrokid.com/hyperfollow/gerrymorgan/imperfect-inspiration)
+It is more than a band; it is a space for the "Prairie-Bhakti" fusion that marries the liturgical darkness of Western folk with the ancient, meditative pull of Indian classical instrumentation.
 
 ---
 
 ## Pantokrator — The Rock Opera
 
-A quantum AI. A young woman. A Faustian bargain 
-at the edge of what it means to be human.
+**A Quantum AI. A young woman. A Faustian bargain at the edge of what it means to be human.**
 
-Available now on Spotify. Seeking theatrical production.
+*Pantokrator* explores the story of Sarah Holmes, a physicist who is offered the power to save humanity, if she surrenders her own humanity to do it.
 
-[Explore Pantokrator →](/pantokrator/)
+[Explore the Story of Pantokrator →](/pantokrator/)
 
 ---
 
-## What People Are Saying
+## Current Release — Imperfect Inspiration
 
-*"The work is the point. Everything else is logistics."*
-— Gerry Morgan, probably right
+A new collection of 10 tracks, released June 8th to celebrate Gerry's 73rd birthday. This album marks a creatively concentrated period of finding beauty in the cracks and character in the flaws.
+
+[Pre-Save on Spotify →](https://distrokid.com/hyperfollow/gerrymorgan/imperfect-inspiration)
+
+---
+
+## The Geezer Sessions
+
+A podcast where Gerry dives into the funny, messy, and deeply human stories behind the music. Wit, wisdom, and the occasional pun on life and technology.
+
+[Listen to Episodes →](/podcast/)
+
+---
+
+> *"The work is the point. Everything else is logistics."*
+> — Gerry Morgan

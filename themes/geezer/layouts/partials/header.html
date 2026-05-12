@@ -1,21 +1,17 @@
 <header class="site-header">
   <div class="container">
-    <a href="{{ .Site.BaseURL }}" class="site-logo">
-      <img src="https://customer-assets.emergentagent.com/wingman/68dfeb24-52dd-46e3-b258-30ead37c45da/attachments/6cdbba456f594865bba8dbfb1b42774e_photo.jpg" alt="Canadian Sky Logo" class="header-logo-img">
+    <a href="/" class="site-logo">
+      <img src="{{ .Site.Params.logoURL }}" alt="{{ .Site.Params.brandName }} Logo" class="header-logo-img">
       <div class="site-title-group">
-        <span class="site-name">{{ .Site.Params.author }}</span>
-        <span class="site-label">{{ .Site.Params.label }}</span>
+        <span class="site-name">{{ .Site.Params.brandName }}</span>
+        <span class="site-label">by {{ .Site.Params.author }}</span>
       </div>
     </a>
     <nav class="site-nav" aria-label="Main navigation">
-      <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu">
-        <span class="sr-only">Menu</span>
-        <span class="hamburger"></span>
-      </button>
-      <ul id="nav-menu" class="nav-list">
+      <ul class="nav-list">
         {{ range .Site.Menus.main }}
         <li>
-          <a href="{{ .URL | relURL }}" {{ if $.IsMenuCurrent "main" . }}class="active" aria-current="page"{{ end }}>
+          <a href="{{ .URL | relURL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>
             {{ .Name }}
           </a>
         </li>
