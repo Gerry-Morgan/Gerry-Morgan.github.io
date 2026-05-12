@@ -12,9 +12,6 @@ compositions, a full-length rock opera, and books spanning
 philosophy, faith, history, and fiction. He runs Geezer Records, 
 his independent label, on his own terms.
 
-He also leads **Canadian Sky**, a musical project dedicated 
-to exploring atmospheric "Prairie-Bhakti" fusion.
-
 But the short version doesn't really cover it.
 
 ---
@@ -39,7 +36,7 @@ when he sat down and listened.
 
 ---
 
-## The Music & Canadian Sky
+## The Music
 
 The sound is harder to categorize than the themes. Western 
 folk and rock at the foundation. Indian classical 
@@ -57,9 +54,8 @@ asks questions about artificial intelligence, sacrifice,
 and what it means to be human that feel more urgent 
 every year.
 
-Today, this vision is carried forward by **Canadian Sky**, 
-his flagship musical atmosphere where these elements 
-converge.
+He writes because he can't stop. He releases consistently 
+under Geezer Records because the work deserves a proper home.
 
 ---
 
@@ -90,4 +86,4 @@ The name is the joke. The music is not.
 ---
 
 > *"The work is the point. Everything else is logistics."*
-— Gerry Morgan
+> — Gerry Morgan
