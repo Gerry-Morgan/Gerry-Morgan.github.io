@@ -34,6 +34,19 @@ a long time ago.
 
 ---
 
+## Introducing Canadian Sky
+
+**The new musical project from Gerry Morgan.**
+
+Canadian Sky represents the most atmospheric and collaborative 
+extension of Gerry Morgan's songwriting. It is where the 
+vastness of the Canadian horizon meets the ancient pull of 
+bhakti devotion. 
+
+[Explore Canadian Sky →](/music/canadian-sky/)
+
+---
+
 ## Start Here
 
 Almost Always — his most-streamed song. 
@@ -49,16 +62,6 @@ A new collection of 10 tracks, released June 8th
 to celebrate Gerry's birthday.
 
 [Pre-Save on Spotify →](https://distrokid.com/hyperfollow/gerrymorgan/imperfect-inspiration)
-
----
-
-## Mystic Meets Muse
-
-His most fully realized album. Eight songs at the 
-intersection of world music, devotional poetry, and 
-the oldest questions a person can ask.
-
-[Listen →](https://open.spotify.com/album/340CNJApoW1eHeV0ukDvgk)
 
 ---
 
