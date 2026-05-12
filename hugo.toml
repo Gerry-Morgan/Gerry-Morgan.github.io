@@ -1,19 +1,19 @@
-# Hugo Configuration for Canadian Sky
-# Flagship Brand of Gerry Morgan
+# Hugo Configuration for Gerry Morgan's Website
+# Geezer Records
 
 baseURL = "https://gerry-morgan.github.io/"
 languageCode = "en-ca"
-title = "Canadian Sky | The Atmosphere of Transformation"
+title = "Gerry Morgan | Songwriter · Author · Educator · Software Designer"
 theme = "geezer"
 copyright = "© 2026 Gerry Morgan / Geezer Records. All rights reserved."
 
 [params]
   author = "Gerry Morgan"
-  brandName = "Canadian Sky"
-  description = "Canadian Sky is the musical home of songwriter, philosopher, and provocateur Gerry Morgan. Exploring the boundaries of human and digital consciousness."
+  description = "Official website of Gerry Morgan — Canadian songwriter, author, educator, and software designer. Home of Geezer Records."
   label = "Geezer Records"
-  tagline = "The Atmosphere of Transformation."
-  logoURL = "https://customer-assets.emergentagent.com/wingman/68dfeb24-52dd-46e3-b258-30ead37c45da/attachments/6cdbba456f594865bba8dbfb1b42774e_photo.jpg"
+  tagline = "Songs. Stories. Software. Learning."
+  ogImage = "/images/og-default.jpg"
+  favicon = "/images/favicon.ico"
   musicCount = "900+"
 
 [params.contact]
@@ -21,48 +21,73 @@ copyright = "© 2026 Gerry Morgan / Geezer Records. All rights reserved."
 
 [params.social]
   bluesky = "https://bsky.app/profile/gerrymorgan.bsky.social"
-  spotify = "https://open.spotify.com/artist/2XuRnP3BJg2V4Gr0fhBSmw"
 
 [menu]
   [[menu.main]]
-    name = "The Vision"
+    name = "Home"
     url = "/"
     weight = 1
 
   [[menu.main]]
-    name = "Pantokrator"
-    url = "/pantokrator/"
+    name = "About"
+    url = "/about/"
     weight = 2
 
   [[menu.main]]
-    name = "Imperfect Inspiration"
-    url = "/music/imperfect-inspiration/"
+    name = "Music"
+    url = "/music/"
     weight = 3
+
+  [[menu.main]]
+    name = "Pantokrator"
+    url = "/pantokrator/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Join the Troupe"
+    url = "/casting/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Library"
+    url = "/library/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Fan Club"
+    url = "/fan-club/"
+    weight = 7
 
   [[menu.main]]
     name = "The Geezer Sessions"
     url = "/podcast/"
-    weight = 4
-
-  [[menu.main]]
-    name = "About Gerry"
-    url = "/about/"
-    weight = 5
+    weight = 8
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 10
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
+  [markup.highlight]
+    style = "monokai"
+
 [taxonomies]
   tag = "tags"
   category = "categories"
   genre = "genres"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
 
 [permalinks]
   music = "/music/:slug/"
