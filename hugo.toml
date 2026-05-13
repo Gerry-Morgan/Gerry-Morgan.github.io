@@ -1,5 +1,5 @@
-# Hugo Configuration for Gerry Morgan's Website
-# Geezer Records
+# Hugo Configuration for Gerry Morgan
+# Portfolio & Digital Library
 
 baseURL = "https://gerry-morgan.github.io/"
 languageCode = "en-ca"
@@ -11,9 +11,7 @@ copyright = "© 2026 Gerry Morgan / Geezer Records. All rights reserved."
   author = "Gerry Morgan"
   description = "Official website of Gerry Morgan — Canadian songwriter, author, educator, and software designer. Home of Geezer Records."
   label = "Geezer Records"
-  tagline = "Songs. Stories. Software. Learning."
-  ogImage = "/images/og-default.jpg"
-  favicon = "/images/favicon.ico"
+  tagline = "Songwreator. Provocateur."
   musicCount = "900+"
 
 [params.contact]
@@ -21,6 +19,7 @@ copyright = "© 2026 Gerry Morgan / Geezer Records. All rights reserved."
 
 [params.social]
   bluesky = "https://bsky.app/profile/gerrymorgan.bsky.social"
+  spotify = "https://open.spotify.com/artist/2XuRnP3BJg2V4Gr0fhBSmw"
 
 [menu]
   [[menu.main]]
@@ -39,55 +38,30 @@ copyright = "© 2026 Gerry Morgan / Geezer Records. All rights reserved."
     weight = 3
 
   [[menu.main]]
-    name = "Pantokrator"
-    url = "/pantokrator/"
-    weight = 4
-
-  [[menu.main]]
-    name = "Join the Troupe"
-    url = "/casting/"
-    weight = 5
-
-  [[menu.main]]
     name = "Library"
     url = "/library/"
-    weight = 6
+    weight = 4
 
   [[menu.main]]
     name = "Fan Club"
     url = "/fan-club/"
-    weight = 7
+    weight = 5
 
   [[menu.main]]
-    name = "The Geezer Sessions"
+    name = "Podcast"
     url = "/podcast/"
-    weight = 8
+    weight = 6
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 10
+    weight = 7
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-  [markup.highlight]
-    style = "monokai"
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  genre = "genres"
-
-[outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
-
-[sitemap]
-  changefreq = "weekly"
-  priority = 0.5
-
 [permalinks]
   music = "/music/:slug/"
+  library = "/library/:slug/"
