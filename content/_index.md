@@ -1,79 +1,27 @@
 ---
 title: "Gerry Morgan"
-description: "Songwriter · Philosopher · Provocateur"
+description: "Songwriter · Author · Educator · Software Designer"
 draft: false
 ---
 
-### Songwriter · Philosopher · Provocateur
+I'm **Gerry Morgan** — a Canadian songwriter, author, educator, and software designer living at the intersection of creativity and technology.
 
-Calgary, Alberta · Geezer Records
+With over **900 songs** written, a rock opera called *Pantokrator*, daily innovation reports, and decades of work in education and software, this site is the home base for all of it.
 
----
-
-Nearly 1,000 songs. One rock opera. A question that 
-won't leave him alone.
-
-*What does transformation cost?*
-
-It runs through everything Gerry Morgan writes — the 
-woman who must surrender her humanity to save humanity. 
-The lovers who must burn their maps to find each other. 
-The bridges we cross and then set on fire behind us. 
-The veils we wear so nobody sees who we really are.
-
-Set to music that refuses to stay in one place. Western 
-folk and rock. Indian classical instrumentation. Sitar 
-and harmonica over a prairie backbeat. Leonard Cohen's 
-darkness. Joni Mitchell's precision. Something that 
-doesn't have a name yet.
-
-Released consistently under Geezer Records — his 
-independent Calgary label — because the work deserves 
-a proper home and he stopped waiting for permission 
-a long time ago.
+**Geezer Records** is the label. The work is the point.
 
 ---
 
-## Start Here
+### 📰 In the Press
 
-Almost Always — his most-streamed song. 
-Over 52,000 listeners and counting.
+> "'Mystic Meets Muse' is a contemporary Eastern fairy tale... a rich tapestry of sound that resonates with themes of love, hope, and dreams." — **Indie Boulevard**
 
-[Listen on Spotify →](https://open.spotify.com/artist/2XuRnP3BJg2V4Gr0fhBSmw)
-
----
-
-## New Release — Imperfect Inspiration
-
-A new collection of 10 tracks, released June 8th 
-to celebrate Gerry's birthday.
-
-[Pre-Save on Spotify →](https://distrokid.com/hyperfollow/gerrymorgan/imperfect-inspiration)
+[Read the feature on Indie Boulevard →](https://indieboulevard.com/2026/05/15/mystic-meets-muse-gerry-morgans-sensual-eastern-fairy-tale-that-will-steal-your-heart/)
 
 ---
 
-## Mystic Meets Muse
+### 🎂 Birthday Release: Pre-Save 'Imperfect Inspiration'
 
-His most fully realized album. Eight songs at the 
-intersection of world music, devotional poetry, and 
-the oldest questions a person can ask.
+To celebrate my birthday on June 8th, I'm releasing a new collection of 10 tracks. You can support the launch by pre-saving the album today.
 
-[Listen →](https://open.spotify.com/album/340CNJApoW1eHeV0ukDvgk)
-
----
-
-## Pantokrator — The Rock Opera
-
-A quantum AI. A young woman. A Faustian bargain 
-at the edge of what it means to be human.
-
-Available now on Spotify. Seeking theatrical production.
-
-[Explore Pantokrator →](/pantokrator/)
-
----
-
-## What People Are Saying
-
-*"The work is the point. Everything else is logistics."*
-— Gerry Morgan, probably right
+[Pre-Save on Spotify](https://distrokid.com/hyperfollow/gerrymorgan/imperfect-inspiration)

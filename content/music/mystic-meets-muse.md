@@ -17,6 +17,14 @@ This is not background music.
 
 ---
 
+## Press & Reviews
+
+> "'Mystic Meets Muse' is a contemporary Eastern fairy tale... a rich tapestry of sound that resonates with themes of love, hope, and dreams." — **Indie Boulevard**
+
+[Read the full review on Indie Boulevard →](https://indieboulevard.com/2026/05/15/mystic-meets-muse-gerry-morgans-sensual-eastern-fairy-tale-that-will-steal-your-heart/)
+
+---
+
 ## The Songs
 
 **Burn the Map, Beloved**
