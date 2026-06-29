@@ -1,1 +1,30 @@
-LS0tCnRpdGxlOiAiR2VycnkgTW9yZ2FuIgpkZXNjcmlwdGlvbjogIlNvbmd3cml0ZXIgwrcgQXV0aG9yIMK3IEVkdWNhdG9yIMK3IFNvZnR3YXJlIERlc2lnbmVyIgpkcmFmdDogZmFsc2UKLS0tCgpJJ20gKipHZXJyeSBNb3JnYW4qKiDigJQgYSBDYW5hZGlhbiBzb25nd3JpdGVyLCBhdXRob3IsIGVkdWNhdG9yLCBhbmQgc29mdHdhcmUgZGVzaWduZXIgbGl2aW5nIGF0IHRoZSBpbnRlcnNlY3Rpb24gb2YgY3JlYXRpdml0eSBhbmQgdGVjaG5vbG9neS4KCldpdGggb3ZlciAqKjkwMCBzb25ncyoqIHdyaXR0ZW4sIGEgcm9jayBvcGVyYSBjYWxsZWQgKlBhbnRva3JhdG9yKiwgZGFpbHkgaW5ub3ZhdGlvbiByZXBvcnRzLCBhbmQgZGVjYWRlcyBvZiB3b3JrIGluIGVkdWNhdGlvbiBhbmQgc29mdHdhcmUsIHRoaXMgc2l0ZSBpcyB0aGUgaG9tZSBiYXNlIGZvciBhbGwgb2YgaXQuCgoqKkdlZXplciBSZWNvcmRzKiogaXMgdGhlIGxhYmVsLiBUaGUgd29yayBpcyB0aGUgcG9ppointCgotLS0KCiMjIyDwn5OwIEluIHRoZSBQcmVzcwoKPiAiJ015c3RpYyBNZWV0cyBNdXNlJyBpcyBhIGNvbnRlbXBvcmFyeSBFYXN0ZXJuIGZhaXJ5IHRhbGGUuLi4gYSByaWNoIHRhcGVzdHJ5IG9mIHNvdW5kIHRoYXQgcmVzb25hdGVzIHdpdGggdGhlbWVzIG9mIGxvdmUsIGhvcGUsIGFuZCBkcmVhbXMuIiDigJQgKipJbmRpZSBCb3VsZXZhcmQqKgoKW1JlYWQgdGhlIGZlYXR1cmUgb24gSW5kaWUgQm91bGV2YXJkIOKGkl0oaHR0cHM6Ly9pbmRpZWJvdWxldmFyZC5jb20vMjAyNi8wNS8xNS9teXN0aWMtbWVldHMtbXVzZS1nZXJyeS1tb3JnYW5zLXNlbnN1YWwtZWFzdGVybi1mYWlyeS10YWxlLXRoYXQtd2lsbC1zdGVhbC15b3VyLWhlYXJ0LykKCi0tLQoKIyMjIPCfj7UgU3BvdGlmeSBQbGF5bGlzdCBQbGFjZW1lbnRzCgpNeSBtdXNpYyBoYXMgYmVlbiByZWNlbnRseSBmZWF0dXJlZCBvbiB0aGUgZm9sbG93aW5nIFNwb3RpZnkgcGxheWxpc3RzOgoKLSBcIlNVUlJFTkRFUlwiIG9uICoqVGhlIEZlZWQ6IFNvdWwqKgotIFwiU1VSUkVOREVSXCIgb24gKipORVcgTkVXXyoKLSBcIkVsZWN0cmljIFNraW5cIiBvbiAqKkZyZXNoIEZpbmRzOiBQb3AqKgoKLS0tCgojIyMg8CfjoIgQmlydGhkYXkgUmVsZWFzZTogJ0ltcGVyZmVjdCBJbnNwaXJhdGlvbicKClRvIGNlbGVicmF0ZSBteSBiaXJ0aGRheSBvbiBKdW5lIDh0aCwganVzdCByZWxlYXNlZCBhIG5ldyBjb2xsZWN0aW9uIG9mIDEwIHRyYWNrcy4KCltMaXN0ZW4gb24gU3BvdGlmeV0oaHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL2FsYnVtLzZ1QXczUWJRdGU4cnhkekNpRTV0MDUpCg==
+--- 
+title: "Gerry Morgan" 
+description: "Sonic Explorer · Songwriter · Author · Exploring the Human Condition" 
+draft: false 
+--- 
+
+I'm **Gerry Morgan** — a **Sonic Explorer** investigating the human condition through the resonance of ancient and vintage instruments. 
+
+With over **900 songs** written, a rock opera called *Pantokrator*, daily innovation reports, and decades of work in education and software, this site is the home base for all of it. 
+
+**Geezer Records** is the label. The work is the point. 
+
+--- 
+
+### 📰 In the Press 
+
+> "'Mystic Meets Muse' is a contemporary Eastern fairy tale... a rich tapestry of sound that resonates with themes of love, hope, and dreams." — **Indie Boulevard** 
+
+[Read the feature on Indie Boulevard ➔](https://indieboulevard.com/2026/05/15/mystic-meets-muse-gerry-morgans-sensual-eastern-fairy-tale-that-will-steal-your-heart/) 
+
+--- 
+
+### 🎵 Spotify Playlist Placements 
+
+My music has been recently featured on the following Spotify playlists: 
+
+- "SURRENDER" on **The Feed: Soul** 
+- "SURRENDER" on **NEW MUSIC** 
+
+[Listen on Spotify](https://open.spotify.com/artist/2XuRnP3BJg2V4Gr0fhBSmw) 
